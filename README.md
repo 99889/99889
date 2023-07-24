@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @99889
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on beginner friendly project
+-  Hi, I’m Inshaal Moin
+-  I’m interested in programming
+-  I’m currently learning Python and backend development with Django framework
+-  I’m looking to collaborate on the beginner-friendly project
 - contact me - 8439067999
 
 <!---
