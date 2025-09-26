@@ -1,6 +1,6 @@
 -  Hi, I’m Inshaal Moin
--  
--  I’m currently working on Personalized Learning / Mentoring Platform with AI Feedback + Progress Analytics project
+   
+  I’m currently working on Personalized Learning / Mentoring Platform with AI Feedback + Progress Analytics project
 
 🌱 I’m currently learning Python and Django
 
